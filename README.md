@@ -1,3 +1,3 @@
 # cautious-journey
-to begin\n
+to begin
 I am a good girl.
